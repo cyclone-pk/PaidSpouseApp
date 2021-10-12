@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074625817599",
+    "project_id": "matrimonialapp-2bb60",
+    "storage_bucket": "matrimonialapp-2bb60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074625817599:android:56e903007907c9a39cd5ca",
+        "android_client_info": {
+          "package_name": "com.mediahut.matriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074625817599-4q4uf7i7udt99khq9so9mmm3sirg6rt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediahut.matriapp",
+            "certificate_hash": "3492822ad256e5be85eb56886f7147a849d01b1a"
+          }
+        },
+        {
+          "client_id": "1074625817599-lacdodlkkehich1mlmg3mvdqi3dr7al0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdX38ekXPALbp3RJPobq0mojElUHjIBgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074625817599-lacdodlkkehich1mlmg3mvdqi3dr7al0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

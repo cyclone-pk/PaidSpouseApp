@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1074625817599-ts9tdardf63dherrm34flrtkjacl7hbu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1074625817599-ts9tdardf63dherrm34flrtkjacl7hbu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1074625817599-4q4uf7i7udt99khq9so9mmm3sirg6rt4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkymZk7BedLm04-UetmAQBVBY7l-N48Ho</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1074625817599</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mediahut.matriapp</string>
+	<key>PROJECT_ID</key>
+	<string>matrimonialapp-2bb60</string>
+	<key>STORAGE_BUCKET</key>
+	<string>matrimonialapp-2bb60.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1074625817599:ios:19d9f1ce9bf73be59cd5ca</string>
+</dict>
+</plist>
